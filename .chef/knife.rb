@@ -10,5 +10,5 @@ cache_type               'BasicFile'
 cache_options( :path => "#{ENV['HOME']}/.chef/checksums" )
 cookbook_path            ["#{current_dir}/../"]
 cookbook_copyright "InMobi India Pvt Ltd."
+cookbook_license   "Adserve-ops reserved"
 cookbook_email     "adserve-ops@inmobi.com"
-cookbook_license   "apachev2"
